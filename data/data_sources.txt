@@ -1,0 +1,14 @@
+ReliefWeb Haiti portal page:
+
+http://reliefweb.int/country/hti
+
+Data sets from the above page:
+
+https://data.humdata.org/group/hti
+
+The above is mainly relief orgs and disaster related (hurricanes, diseases, etc)
+although there is some UN satellite data (db and shape files) and sporadic data
+in various formatsfrom other sources (eg, recent hurricane rainfall derived
+from NASA satellite data, world food prices, etc).
+
+

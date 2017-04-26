@@ -1,0 +1,7 @@
+USAF-WBAN_ID STATION NAME                   COUNTRY                                            STATE 			      LATITUDE LONGITUDE ELEVATION
+------------ ------------------------------ -------------------------------------------------- ------------------------------ -------- --------- ---------
+784090 99999 CAP HAITIEN INTL               HAITI                                                                              +19.733  -072.195   +0003.0
+784370 99999 PORT-AU-PRINCE (DAMIEN)        HAITI                                                                              +18.600  -072.283   +0015.0
+784390 99999 TOUSSAINT LOUVERTURE INTL      HAITI                                                                              +18.580  -072.293   +0037.2
+784395 99999 CAMP CANARGUS                  HAITI                                                                              +18.567  -072.317   +0038.0
+784800 99999 JIMANI                         DOMINICAN REPUBLIC                                                                 +18.333  -071.850   +0056.0
